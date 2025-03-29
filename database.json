@@ -1,0 +1,24 @@
+{
+    "parking_lot": {
+        "total_spaces": 10,
+        "free_spaces": 11,
+        "occupied_spaces": 0,
+        "probability": 99.8
+    },
+    "bookings": [
+        {
+            "time": "08:00",
+            "date": "2025-03-26"
+        }
+    ],
+    "website_visits": [
+        {
+            "time": "08:05",
+            "date": "2025-03-26"
+        },
+        {
+            "time": "08:30",
+            "date": "2025-03-26"
+        }
+    ]
+}
